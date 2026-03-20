@@ -16,8 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a PhD student at The Hong Kong Polytechnic University. My research focuses on vision science, lens design, and optical measurement.
 
-My research focuses on vision science, lens design, and lens measurement.
+Currently, I am working on visual adaptation to blur. I welcome opportunities for research collaboration and discussion in related areas.
+
+
 
 
 
